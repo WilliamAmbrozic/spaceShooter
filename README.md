@@ -49,7 +49,7 @@ Follow the youtube video to see how I fared on ``spaceShooter``
 
 A NEAT (Neuroevolution of Augmenting Topologies) Neural Network by William Ambrozic for Space Shooter
 
-[![Space Shooter AI - Youtube](https://i.imgur.com/qSlfNMU.png)](https://www.youtube.com/watch?v=sReJJ8EcmIw&t=3s)
+[![Space Shooter AI - Youtube](https://imgur.com/download/oVgkd0d)](https://www.youtube.com/watch?v=sReJJ8EcmIw&t=3s)
 
 [NEAT Neural Network for Space Shooter GitHub Repo](https://github.com/WilliamAmbrozic/spaceShooter)
 
