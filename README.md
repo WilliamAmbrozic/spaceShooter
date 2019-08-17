@@ -54,6 +54,7 @@ A NEAT (Neuroevolution of Augmenting Topologies) Neural Network by William Ambro
 [NEAT Neural Network for Space Shooter GitHub Repo](https://github.com/WilliamAmbrozic/spaceShooter)
 
 William Ambrozic:
+  - [Hire or Learn More](https://williamambrozic.info)
   - [Instagram](https://www.instagram.com/williamambrozic/)
   - [GitHub](https://github.com/WilliamAmbrozic)
   - [Youtube](https://www.youtube.com/channel/UCL-VushY6SO0ofPTZ8iB3ag?)
